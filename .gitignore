@@ -1,0 +1,9 @@
+#dependencies
+node_modules
+venv
+
+
+#tags
+tags
+tags.lock
+tags.temp
